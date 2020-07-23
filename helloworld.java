@@ -1,7 +1,7 @@
 vim helloworld.java
 class helloworld{
-	public statuc void main (string args[])
+	public static void main (String args[])
     {
-    system.out.println9("Hello World");
+    System.out.println9("Hello World");
     }
 }
