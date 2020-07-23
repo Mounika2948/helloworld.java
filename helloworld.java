@@ -1,4 +1,3 @@
-vim helloworld.java
 class helloworld{
 	public static void main (String args[])
     {
