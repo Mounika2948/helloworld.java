@@ -1,4 +1,4 @@
-vim HelloWorld.java
+vim helloworld.java
 class HelloWorld{
 	public statuc void main (string args[])
     {
